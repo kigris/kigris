@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kigris
-Currently trying to figure this out... 😅
+- 👋 Hi, I’m @kigris.  
+Currently trying to figure this out... 😅  
 
 <!---
 kigris/kigris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
